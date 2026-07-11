@@ -1,0 +1,6 @@
+{
+  "name": "Global Software Solutions",
+  "description": "Professional business website for Global Software, specializing in digital solutions for schools and medical stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
